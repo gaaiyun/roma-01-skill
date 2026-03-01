@@ -1,0 +1,2 @@
+{"timestamp": "2026-03-01T12:17:04.734759", "type": "suggestion", "symbol": "BTCUSDT", "action": "WAIT", "confidence": 65.0, "chain_of_thought": "Test analysis", "key_levels": {"support": 48000, "resistance": 52000}, "risk_warning": "Test warning"}
+{"timestamp": "2026-03-01T12:17:23.663554", "type": "suggestion", "symbol": "BTCUSDT", "action": "WAIT", "confidence": 65.0, "chain_of_thought": "Test analysis", "key_levels": {"support": 48000, "resistance": 52000}, "risk_warning": "Test warning"}
